@@ -8,4 +8,4 @@
 # Что такое thunk
 # Как в React компоненте взаимодействовать с Redux
 
-[DEMO] (https://sasha39612.github.io/Redux_practise/)
+[DEMO](https://sasha39612.github.io/Redux_practise/)
